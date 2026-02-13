@@ -1,9 +1,9 @@
-# CMPUT 301 : Lab 5 - Firestore
+# CMPUT 301 : Lab 6 - Javadoc/JUnit
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Devon Ahmar Perry`
+- **CCID:** `daperry1`
 
 ## References and Resources
 
